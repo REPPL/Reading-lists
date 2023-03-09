@@ -1,0 +1,72 @@
+---
+title: "Reading list: Crypto, web3, metaverse, etc."
+author: "[Alex Reppel](https://pure.royalholloway.ac.uk/en/persons/alex-reppel),"
+date: "last updated `r format(Sys.Date(), format='%B %Y')`"
+bibliography: "assets/references/crypto.bib"
+output: github_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "output/") })
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.path='assets/figure/')
+```
+
+
+**On this page, I document my evolving thoughts on "crypto," "web3," etc., as well as most of the sources [I have read][reading list] so far. While I recognise the former won't be of much interest to others, I hope that the brief introduction at the beginning of this document and the [reading list][] further below benefits those who haven't already made up their mind.**
+
+
+```{r Input variables, message=FALSE, warning=FALSE, include=FALSE}
+library <- "assets/references/crypto.bib"
+```
+
+
+When it comes to "crypto," many people have strong opinions. There are those loudly promoting investment opportunities, thus feeding what some may refer to as yet another crypto-related "ponzi scheme." Then there are those shouting from on the other side of the fence, highlighting everything they believe is wrong with crypto/web3.
+
+Those interested in the social consequences of new technologies may want to "follow the money" ... It is not difficult to see how vocal proponents on both side of the fence benefit from taking (and promoting) their (strong) positions. A ponzi scheme exists so that those already in it benefit financially from those joining it. It is perhaps not unfair to assume that most crypto promoter expect to gain financially from what they promote. But those taking a strong position against crypto/web3 also benefit financially, either directly or by building and promoting their personal brand, which is then monetised through speaker fees and/or advertising on social media.
+
+Building a personal brand becomes much easier when one takes a dogmatic position, as opposed to a pragmatic one. Personally, I continue to believe it is important to take a balanced view on most things technology-related; especially those where the jury is still "out there" in terms of the potential to become either a net positive or net negative.
+
+
+## The case against "crypto"
+
+For those still unsure about the current state of "crypto," I recommend four videos. While each video is clearly aimed at people without a particular enthusiasm for the topic, they have in common that they explain the ideas/concepts/technologies they are criticising. The first is a short talk by Andrew Keen on the promise of crypto:
+
+[![19min](http://img.youtube.com/vi/rXYFwDYFwxM/0.jpg){width=31%}](https://youtu.be/rXYFwDYFwxM "The Promise of Crypto? (Andrew Keen)| DLD 22")
+
+The remaining three videos are also worth watching in full--but be warned ... they are long!
+
+[![1h 41min](http://img.youtube.com/vi/u-sNSjS8cq0/0.jpg){width=31%}](http://www.youtube.com/watch?v=u-sNSjS8cq0 "Web3.0: A Libertarian Dystopia")
+[![2h 18min](http://img.youtube.com/vi/YQ_xWvX1n9g/0.jpg){width=31%}](http://www.youtube.com/watch?v=YQ_xWvX1n9g "Line Goes Up – The Problem With NFTs")
+[![1h 05min](http://img.youtube.com/vi/8St36RjHd2E/0.jpg){width=31%}](http://www.youtube.com/watch?v=8St36RjHd2E "An Honest Conversation On The Problem With NFTs & Cryptocurrency, with @Folding Ideas")
+
+Key criticism:
+
+> "Cryptocurrency is a socially destructive experiment." --Dan Olson
+
+Like many "dot-com" projects during the late 1990s, many crypto projects are scams and should be called out as such. These are often bred by euphoria, which appears to be widespread amongst the community of those advocating crypto-related products and services. *(A good resource to stay up-to-date on the dangers of getting actively involved in the space is the "[Web3 is going just great](https://web3isgoinggreat.com/)" website.)*
+
+
+## The case for "crypto"
+
+Clearly, there is a lot in the world that deserves to be criticised, including many crypto-related projects and even some of the technologies being developed. *(In fact, as of November 2022, one may be forgiven for thinking that the number of crypto projects, products, and services that have harmed those not on the "inside" (i.e., retail investors), is increasing exponentially.)* Despite this, I try to maintain a healthy respect for those building stuff, perhaps for the simple fact that I never managed to built much myself.
+
+Of course, building stuff is hard and, at times, even those building what we disagree with and/or believe could result in harm deserve credit for trying. In fact, I may be reasonably described as an ageing pessimist, but even I assume that most software engineers prefer to build what benefits users rather than what harms them. Moreover, we can only criticise them and their creations because they have build them in the first place. This also applies to my deeply held disdain for social media. I am confident that, at least for the first couple of years of their existence, most people employed at those social media firms were not trying to build something intentionally harmful.
+
+Should you have made it through the first set of videos, I recommend looking at three more. These have in common that they are (a) much shorter (I leave it to you to ponder on that), and (b) more optimistic about the potential of "web3" and/or the "metaverse":
+
+[![](http://img.youtube.com/vi/bpaKQ3CZpVs/0.jpg){width=31%}](http://www.youtube.com/watch?v=bpaKQ3CZpVs "Web 3: The future or All HYPE?? What you NEED to know!!")
+[![](http://img.youtube.com/vi/NNKqOMSkkUg/0.jpg){width=31%}](http://www.youtube.com/watch?v=NNKqOMSkkUg "The Metaverse Opportunities Previously Unimaginable")
+[![](http://img.youtube.com/vi/b86qqIDwUo4/0.jpg){width=31%}](https://youtu.be/b86qqIDwUo4 "Web 2.0 is dead. Long live Web3 | Gavin Wood at Collision Conference 2022")
+
+Well, "optimistic" is perhaps not the best way to describe these videos; they are very different. While the first one (left) aims to offer a fairly nuanced introduction to "[web3](#web3)," including putting it into a historic perspective, the second video (centre) is an example of a bullish case for the "[metaverse](#metaverse);" and perhaps the kind of video [münecat](https://www.youtube.com/channel/UCqNpjt_UcMPgm_9gphZgHYA) and [Dan Olson](https://www.youtube.com/channel/UCyNtlmLB73-7gtlBz00XOQQ) had in mind when they prepared their critical reflections. The third video (right) is an interview with a prominent figure in the "crypto"/"[blockchain](#blockchain)" space. While I must admit that I am not entirely comfortable with the atmosphere this conference appears to emanate, I usually enjoy listening to people explaining their rationale for what they have helped to create.
+
+
+# Reading list
+
+Beyond these videos, there are many more sources worth exploring. The following list documents what I have read and felt worth keeping a record of. While I haven't added anything I didn't find useful in one way or another, many of the sources listed her won't be of interest to a lot of people. *(Articles and discussions by investors and/or marketers are a case in point.)*
+
+
+```{r child = 'process-bibtext-file.Rmd'}
+```

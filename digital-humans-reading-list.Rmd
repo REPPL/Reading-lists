@@ -1,0 +1,26 @@
+---
+title: "Reading list: Digital human experiences"
+author: "[Alex Reppel](https://pure.royalholloway.ac.uk/en/persons/alex-reppel),"
+date: "last updated `r format(Sys.Date(), format='%B %Y')`"
+bibliography: "assets/references/crypto.bib"
+output: github_document
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding, output_dir = "output/") })
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(fig.path='assets/figure/')
+```
+
+
+**On this page, I document my evolving thoughts on digital human representation in immersive environments, as well as most of the sources [I have read][reading list] so far. While I recognise the former won't be of much interest to others, I hope that the brief introduction at the beginning of this document and the [reading list][] further below benefits those who haven't already made up their mind.**
+
+
+```{r Input variables, message=FALSE, warning=FALSE, include=FALSE}
+library <- "assets/references/digital-humans.bib"
+```
+
+
+```{r child = 'process-bibtext-file.Rmd'}
+```

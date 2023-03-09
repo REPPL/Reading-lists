@@ -1,0 +1,94 @@
+
+The following list documents what I have read on the topic and felt worth keeping a record of. While I haven't added anything I didn't find useful in one way or another, many of the sources listed here may not be of interest to many people.
+
+*(This page remains work in progress. I use keywords to generate headings and sub-headings for this list. I often assign more than one keyword to a source, which I do on purpose. What I don't do on purpose is attached the wrong keyword to a source. But it happens, with the consequence that a source ends up under a headline it doesn't belong to. I remain hopeful that I will spot these mistakes over time. Please [email](mailto:alexander.reppel@rhul.ac.uk?subject=BibtexFile--) suggestions on how to improve this list.)*
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(RefManageR)
+library(bibtex)
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+if (!exists("library")) {
+  library <- "assets/references/example.bib"
+}
+bib <- RefManageR::ReadBib(library, check = "error")  
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+# Extract first and second order keywords
+topics <- c()
+categories <- c()
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+for (i in 1:length(bib$keywords)) {
+  if (grepl(",", bib$keywords[[i]], fixed=TRUE)) {
+    x <- "," } else {
+      x <- ";"
+    }
+  kwds <- as.list(
+    unlist(strsplit(bib$keywords[[i]], x)))
+  for (j in 1:length(kwds)) {
+    if (!startsWith(kwds[[j]], "___")) {
+      cats <- as.list(unlist(strsplit(kwds[[j]], "--")))
+      if (length(cats) > 1) {
+          t <- trimws(cats[[2]])
+          c <- trimws(cats[[1]])
+      topics <- append(topics, t)
+      categories <- append(categories, c)
+        }
+    }
+  }
+  }
+```
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+topics <- unique(sort(na.omit(topics)))
+categories <- unique(sort(na.omit(categories)))
+```
+
+
+## Topics
+
+```{r navigation, echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+navigation <- c()
+for (t in 1:length(topics)) {
+  if (!t == length(topics)) {
+    knitr::asis_output(cat(paste0("[", topics[t], "][], ")))
+  } else {
+    knitr::asis_output(cat(paste0("[", topics[t], "][].")))
+  }
+}
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+for (t in 1:length(topics)) {
+  if (!t == 1) {
+    cat("<div style='text-align: right'>*([Back to list of topics][Topics])*</div>\n")
+  }
+  cat(paste0("\n## ", topics[t], "\n"))
+  for (c in 1:length(categories)) {
+    keyword <- paste(categories[c], "--", topics[t])
+    b <- bib[keywords = keyword]
+    if (length(b) > 0) {
+      cat(paste0(
+        "\n### ", topics[t], ": ", categories[c], "\n"))
+      print(
+        b,
+        .opts = list(
+          style = "markdown",
+          bib.style = "authoryear",
+          max.names = 3,
+          first.inits = FALSE))
+    }
+  }
+}
+```
+
