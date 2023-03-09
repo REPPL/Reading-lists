@@ -22,7 +22,7 @@ class="csl-right-inline">Jacky Akoka, Isabelle Comyn-Wattiau, Nicolas
 Prat, and Veda C. Storey. 2023. Knowledge contributions in design
 science research: Paths of knowledge types. *Decision Support Systems*
 166, (2023), 113898.
-DOI:https://doi.org/[10.1016/j.dss.2022.113898](https://doi.org/10.1016/j.dss.2022.113898)</span>
+DOI:[https://doi.org/10.1016/j.dss.2022.113898](https://doi.org/10.1016/j.dss.2022.113898)</span>
 
 </div>
 
@@ -68,7 +68,7 @@ sovereignty in the digital world. Retrieved August 29, 2022 from
 class="csl-right-inline">Nitesh Bharosa. 2022. The rise of GovTech:
 Trojan horse or blessing in disguise? A research agenda. *Government
 Information Quarterly* 39, 3 (2022), 1–10.
-DOI:https://doi.org/[10.1016/j.giq.2022.101692](https://doi.org/10.1016/j.giq.2022.101692)</span>
+DOI:[https://doi.org/10.1016/j.giq.2022.101692](https://doi.org/10.1016/j.giq.2022.101692)</span>
 
 </div>
 
@@ -119,7 +119,7 @@ Retrieved August 10, 2022 from
 class="csl-right-inline">I. Goldberg, D. Wagner, and E. Brewer. 1997.
 Privacy-enhancing technologies for the internet. In *Proceedings IEEE
 COMPCON 97. Digest of papers*, 103–109.
-DOI:https://doi.org/[10.1109/CMPCON.1997.584680](https://doi.org/10.1109/CMPCON.1997.584680)</span>
+DOI:[https://doi.org/10.1109/CMPCON.1997.584680](https://doi.org/10.1109/CMPCON.1997.584680)</span>
 
 </div>
 
@@ -137,7 +137,7 @@ O’REILLY, Sebastopol, CA.</span>
 class="csl-right-inline">Shirley Gregor and Alan R. Hevner. 2013.
 Positioning and presenting design science research for maximum impact.
 *MIS quarterly* 37, 2 (2013), 337–355.
-DOI:https://doi.org/[10.25300/MISQ/2013/37.2.01](https://doi.org/10.25300/MISQ/2013/37.2.01)</span>
+DOI:[https://doi.org/10.25300/MISQ/2013/37.2.01](https://doi.org/10.25300/MISQ/2013/37.2.01)</span>
 
 </div>
 
@@ -147,7 +147,7 @@ DOI:https://doi.org/[10.25300/MISQ/2013/37.2.01](https://doi.org/10.25300/MISQ/2
 class="csl-right-inline">Oliver L. Haimson and Anna Lauren Hoffmann.
 2016. Constructing and enforcing "authentic" identity online: Facebook,
 real names, and non-normative identities. *First Monday* 21, 6 (2016).
-DOI:https://doi.org/[10.5210/fm.v21i6.6791](https://doi.org/10.5210/fm.v21i6.6791)</span>
+DOI:[https://doi.org/10.5210/fm.v21i6.6791](https://doi.org/10.5210/fm.v21i6.6791)</span>
 
 </div>
 
@@ -157,7 +157,7 @@ DOI:https://doi.org/[10.5210/fm.v21i6.6791](https://doi.org/10.5210/fm.v21i6.679
 class="csl-right-inline">Alan R. Hevner, Salvatore T. March, Jinsoo
 Park, and Sudha Ram. 2004. Design science in information systems
 research. *MIS Quarterly* 28, 1 (2004), 75–105.
-DOI:https://doi.org/[10.2307/25148625](https://doi.org/10.2307/25148625)</span>
+DOI:[https://doi.org/10.2307/25148625](https://doi.org/10.2307/25148625)</span>
 
 </div>
 
@@ -176,7 +176,7 @@ Retrieved January 18, 2022 from
 <span class="csl-left-margin">\[18\] </span><span
 class="csl-right-inline">Richard Jenkins. 2008. *Social identity* (3rd
 ed.). Routledge, Oxford.
-DOI:https://doi.org/[10.4324/9780203463352](https://doi.org/10.4324/9780203463352)</span>
+DOI:[https://doi.org/10.4324/9780203463352](https://doi.org/10.4324/9780203463352)</span>
 
 </div>
 
@@ -186,7 +186,7 @@ DOI:https://doi.org/[10.4324/9780203463352](https://doi.org/10.4324/978020346335
 class="csl-right-inline">David Jones and Shirley Gregor. 2007. The
 anatomy of a design theory. *Association for Information Systems* 8, 5
 (2007), 312–335.
-DOI:https://doi.org/[10.17705/1jais.00129](https://doi.org/10.17705/1jais.00129)</span>
+DOI:[https://doi.org/10.17705/1jais.00129](https://doi.org/10.17705/1jais.00129)</span>
 
 </div>
 
@@ -230,7 +230,7 @@ wallet. *MIS Quarterly Executive* 21, 3 (2022), 6. Retrieved from
 class="csl-right-inline">Han Jin Lee and Hyun Hee Gu. 2022. Empirical
 research on the metaverse user experience of digital natives.
 *Sustainability* 14, 22 (2022).
-DOI:https://doi.org/[10.3390/su142214747](https://doi.org/10.3390/su142214747)</span>
+DOI:[https://doi.org/10.3390/su142214747](https://doi.org/10.3390/su142214747)</span>
 
 </div>
 
@@ -241,7 +241,7 @@ class="csl-right-inline">Alexander Maedche, Shirley Gregor, and Jeffrey
 Parsons. 2021. Mapping design contributions in information systems
 research: The design research activity framework. *Communications of the
 Association for Information Systems* 49, 1 (2021), 12.
-DOI:https://doi.org/[10.17705/1CAIS.04914](https://doi.org/10.17705/1CAIS.04914)</span>
+DOI:[https://doi.org/10.17705/1CAIS.04914](https://doi.org/10.17705/1CAIS.04914)</span>
 
 </div>
 
@@ -271,7 +271,7 @@ class="csl-right-inline">Alexander Mühle, Andreas Grüner, Tatiana
 Gayvoronskaya, and Christoph Meinel. 2018. A survey on essential
 components of a self-sovereign identity. *Computer Science Review* 30,
 (2018), 80–86.
-DOI:https://doi.org/[10.1016/j.cosrev.2018.10.002](https://doi.org/10.1016/j.cosrev.2018.10.002)</span>
+DOI:[https://doi.org/10.1016/j.cosrev.2018.10.002](https://doi.org/10.1016/j.cosrev.2018.10.002)</span>
 
 </div>
 
@@ -280,7 +280,7 @@ DOI:https://doi.org/[10.1016/j.cosrev.2018.10.002](https://doi.org/10.1016/j.cos
 <span class="csl-left-margin">\[28\] </span><span
 class="csl-right-inline">Stylianos Mystakidis. 2022. Metaverse.
 *Encyclopedia* 2, 1 (2022), 486–497.
-DOI:https://doi.org/[10.3390/encyclopedia2010031](https://doi.org/10.3390/encyclopedia2010031)</span>
+DOI:[https://doi.org/10.3390/encyclopedia2010031](https://doi.org/10.3390/encyclopedia2010031)</span>
 
 </div>
 
@@ -292,7 +292,7 @@ Self-sovereign identity specifications: Govern your identity through
 your digital wallet using blockchain technology. In *2020 8th IEEE
 international conference on mobile cloud computing, services, and
 engineering (MobileCloud)*, Oxford, UK, 90–95.
-DOI:https://doi.org/[10.1109/MobileCloud48802.2020.00021](https://doi.org/10.1109/MobileCloud48802.2020.00021)</span>
+DOI:[https://doi.org/10.1109/MobileCloud48802.2020.00021](https://doi.org/10.1109/MobileCloud48802.2020.00021)</span>
 
 </div>
 
@@ -346,7 +346,7 @@ from
 class="csl-right-inline">Andrés Chomczyk Penedo. 2022. Towards a
 technologically assisted consent in the upcoming new EU data laws?
 *Privacy in Germany* 5, 22 (2022), 1–8.
-DOI:https://doi.org/[10.37307/j.2196-9817.2022.05.05](https://doi.org/10.37307/j.2196-9817.2022.05.05)</span>
+DOI:[https://doi.org/10.37307/j.2196-9817.2022.05.05](https://doi.org/10.37307/j.2196-9817.2022.05.05)</span>
 
 </div>
 
@@ -357,7 +357,7 @@ class="csl-right-inline">Alexander E. Reppel and Isabelle Szmigin. 2010.
 Consumer-managed profiling: A contemporary interpretation of privacy in
 buyerseller interactions. *Journal of Marketing Management* 26, 3-4
 (2010), 321–342.
-DOI:https://doi.org/[10.1080/02672570903566383](https://doi.org/10.1080/02672570903566383)</span>
+DOI:[https://doi.org/10.1080/02672570903566383](https://doi.org/10.1080/02672570903566383)</span>
 
 </div>
 
@@ -388,7 +388,7 @@ xxi–xxii. Retrieved from
 class="csl-right-inline">Amit Shankar and Abhishek Behl. 2021. How to
 enhance consumer experience over mobile wallet: A data-driven approach.
 *Journal of Strategic Marketing* (2021), 1–18.
-DOI:https://doi.org/[10.1080/0965254X.2021.1999306](https://doi.org/10.1080/0965254X.2021.1999306)</span>
+DOI:[https://doi.org/10.1080/0965254X.2021.1999306](https://doi.org/10.1080/0965254X.2021.1999306)</span>
 
 </div>
 
@@ -397,7 +397,7 @@ DOI:https://doi.org/[10.1080/0965254X.2021.1999306](https://doi.org/10.1080/0965
 <span class="csl-left-margin">\[40\] </span><span
 class="csl-right-inline">Chris Stokel-Walker. 2022. Welcome to the
 metaverse. *New Scientist* 253, 3368 (2022), 39–43.
-DOI:https://doi.org/[10.1016/S0262-4079(22)00018-5](https://doi.org/10.1016/S0262-4079(22)00018-5)</span>
+DOI:[https://doi.org/10.1016/S0262-4079(22)00018-5](https://doi.org/10.1016/S0262-4079(22)00018-5)</span>
 
 </div>
 
@@ -407,7 +407,7 @@ DOI:https://doi.org/[10.1016/S0262-4079(22)00018-5](https://doi.org/10.1016/S026
 class="csl-right-inline">Quinten Stokkink, Georgy Ishmaev, Dick Epema,
 and Johan Pouwelse. 2021. A truly self-sovereign identity system. In
 *2021 IEEE 46th conference on local computer networks (LCN)*, 1–8.
-DOI:https://doi.org/[10.1109/LCN52139.2021.9525011](https://doi.org/10.1109/LCN52139.2021.9525011)</span>
+DOI:[https://doi.org/10.1109/LCN52139.2021.9525011](https://doi.org/10.1109/LCN52139.2021.9525011)</span>
 
 </div>
 
@@ -427,7 +427,7 @@ of Law and Technology* 16, 59 (2013). Retrieved from
 class="csl-right-inline">Shasha Teng and Kok Wei Khong. 2021. Examining
 actual consumer usage of e-wallet: A case study of big data analytics.
 *Computers in Human Behavior* 121, (2021).
-DOI:https://doi.org/[10.1016/j.chb.2021.106778](https://doi.org/10.1016/j.chb.2021.106778)</span>
+DOI:[https://doi.org/10.1016/j.chb.2021.106778](https://doi.org/10.1016/j.chb.2021.106778)</span>
 
 </div>
 
@@ -456,7 +456,7 @@ and confidential computing. Retrieved August 29, 2022 from
 class="csl-right-inline">Shoshana Zuboff. 2015. Big other: Surveillance
 capitalism and the prospects of an information civilization. *Journal of
 Information Technology* 30, 1 (2015), 75–89.
-DOI:https://doi.org/[10.1057/jit.2015.5](https://doi.org/10.1057/jit.2015.5)</span>
+DOI:[https://doi.org/10.1057/jit.2015.5](https://doi.org/10.1057/jit.2015.5)</span>
 
 </div>
 
