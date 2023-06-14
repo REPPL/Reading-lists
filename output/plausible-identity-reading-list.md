@@ -269,7 +269,7 @@ DOI:[https://doi.org/10.17705/1CAIS.04914](https://doi.org/10.17705/1CAIS.04914)
 <span class="csl-left-margin">\[27\] </span><span
 class="csl-right-inline">Markets and Markets. 2022. Market research
 report: Metaverse market (TC 8053). Retrieved January 4, 2023 from
-<https://www.washingtonpost.com/national/a-big-moment-finally-comes-for-the-little-shell-federal-recognition-of-their-tribe/2019/12/20/72f5ee86-204d-11ea-bed5-880264cc91a9_story.html></span>
+<https://www.marketsandmarkets.com/Market-Reports/metaverse-market-166893905.html></span>
 
 </div>
 
